@@ -1,12 +1,17 @@
 <h2 align="center">👋 Hey, I'm Adarsh Kumar</h2>
 <p align="center">
-  🎓 B.Tech IT @ GGSIPU | 🧠 Full Stack & AI Enthusiast | 💻 Open Source Lover | 🌐 WordPress + SEO + Google Ads Expert
+  🎓 B.Tech IT @ GGSIPU | 💻 Full Stack Developer | 🏆 Winner of Multiple National Hackathons | 🔓 Open Source Lover | 🤖 Former AI/ML Intern @ DRDO | 🥇 SDI 2025 Winner
 </p>
+
 
 ---
 
-### 💫 About Me  
-A passionate developer blending **AI/ML research, full-stack product engineering**, and modern marketing tech (like SEO & Google Ads) to build meaningful, scalable web solutions. Whether it's building real-time surveillance with YOLO, launching SEO-optimized platforms, or managing paid Google Ads campaigns for startups — I love combining **tech + impact**.
+### 👋 About Me
+
+🚀 A passionate developer blending **AI/ML research**, **full-stack product engineering**, and **real-world innovation**.  
+🧠 From building **real-time surveillance systems** using **YOLO and OpenCV**, to developing **scalable web platforms** with **React.js**, **Node.js**, and **MongoDB**, I love turning ideas into functional products.  
+💼 In my **2nd year**, I completed **three internships** — as an **AI/ML Intern at DRDO** 🔬, a **Full Stack Developer at CrakCode** 🌐, and an **Automation & Web Intern at Brand Storyy** 🛠️ — where I applied my skills to **solve real problems**, **collaborate in agile teams**, and build software that merges **performance with impact**. 🔥
+
 
 ---
 
@@ -23,7 +28,7 @@ A passionate developer blending **AI/ML research, full-stack product engineering
   <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen?logo=node.js&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB/PostgreSQL-Database-success?logo=mongodb&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TailwindCSS-UI-lightblue?logo=tailwindcss&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Actions/CI-CD-grey?logo=githubactions&style=for-the-badge"/>
+ 
 </p>
 
 ---
@@ -65,8 +70,8 @@ A passionate developer blending **AI/ML research, full-stack product engineering
 
 📫 [adarsh25nov@gmail.com](mailto:adarsh25nov@gmail.com)  
 🌐 [Portfolio](https://ad-arsh-jha-portfolio.netlify.app/)  
-🐙 [GitHub](https://github.com/jhadarsh)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link-if-you-want)  
+🐙 [GitHub](https://github.](com/jhadarsh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-kumar-13a17b2a7/)  
 
 ---
 
